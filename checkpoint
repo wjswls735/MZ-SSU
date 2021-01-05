@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/oslab/nlu/categoryclassifier/Bi_LSTM"
+all_model_checkpoint_paths: "/home/oslab/nlu/categoryclassifier/Bi_LSTM"
